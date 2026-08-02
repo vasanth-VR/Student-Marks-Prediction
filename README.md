@@ -86,23 +86,8 @@ Evaluation Metrics:
 ---
 
 ## 📷 Screenshots
-## 📸 Application Screenshots
 
-### Home Page
-
-![Home Page](screenshots/Screenshot 2026-08-02 190447.jpg)
-
----
-
-### Prediction Result
-
-![Prediction Result](screenshots/Screenshot 2026-08-02 190549.jpg)
-
----
-
-### Dataset Visualization
-
-![Dataset Visualization](screenshots/Screenshot 2026-08-02 190617.jpg)
+(Add screenshots here after uploading to GitHub.)
 
 ---
 
