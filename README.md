@@ -85,10 +85,23 @@ Evaluation Metrics:
 
 ---
 
-## 📷 Screenshots
+## 📸 Application Screenshots
 
-(Add screenshots here after uploading to GitHub.)
+### Home Page
 
+![Home Page](screenshots/home-page.jpg)
+
+---
+
+### Prediction Result
+
+![Prediction Result](screenshots/prediction-result.jpg)
+
+---
+
+### Dataset Visualization
+
+![Dataset Visualization](screenshots/dataset-visualization.jpg)
 ---
 
 ## 👨‍💻 Author
