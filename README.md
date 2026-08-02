@@ -86,9 +86,23 @@ Evaluation Metrics:
 ---
 
 ## 📷 Screenshots
-<img width="1901" height="547" alt="Screenshot 2026-08-02 190447" src="https://github.com/user-attachments/assets/ff441751-ab9e-4f7d-871c-090b1ae13e18" />
+## 📸 Application Screenshots
 
+### Home Page
 
+![Home Page](screenshots/Screenshot 2026-08-02 190447.jpg)
+
+---
+
+### Prediction Result
+
+![Prediction Result](screenshots/Screenshot 2026-08-02 190549.jpg)
+
+---
+
+### Dataset Visualization
+
+![Dataset Visualization](screenshots/Screenshot 2026-08-02 190617.jpg)
 
 ---
 
